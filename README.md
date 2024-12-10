@@ -1,6 +1,6 @@
 # AWS organizations
 is the place in which we can centrally manage your enviroment. the following is a high-level explanation on how to user AWS organizations
-![Oranizations](AWS organizations.png)
+![Oranizations]("AWS organizations.png")
 
 
 # AWS WAF & Organizations
@@ -10,7 +10,7 @@ Using Firewall Manager, you can roll out AWS WAF rules, create AWS Shield Advanc
 
 ## AWF Firewall manager
 
-![firewall manager](AWS firewall manager.png)
+![firewall manager]("AWS firewall-manager.png")
 
 is a security management service user to centrally configure and manage your AWS firewall policies across accounts and applications in your organization managed by AWS organization
 
